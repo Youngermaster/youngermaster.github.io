@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2597d46f.css",
-    "main.js": "/static/js/main.d0aa810a.js",
+    "main.js": "/static/js/main.a6af4c29.js",
     "static/media/unity_fps.gif": "/static/media/unity_fps.ca279f826808946aed54.gif",
     "static/media/agro_controller_app.gif": "/static/media/agro_controller_app.f52a7be71088925000b2.gif",
     "static/media/profile.png": "/static/media/profile.71b5ed8c156f18730ee9.png",
@@ -38,10 +38,10 @@
     "static/media/discord.png": "/static/media/discord.b82ee1b1be804a0cc2e8.png",
     "index.html": "/index.html",
     "main.2597d46f.css.map": "/static/css/main.2597d46f.css.map",
-    "main.d0aa810a.js.map": "/static/js/main.d0aa810a.js.map"
+    "main.a6af4c29.js.map": "/static/js/main.a6af4c29.js.map"
   },
   "entrypoints": [
     "static/css/main.2597d46f.css",
-    "static/js/main.d0aa810a.js"
+    "static/js/main.a6af4c29.js"
   ]
 }
